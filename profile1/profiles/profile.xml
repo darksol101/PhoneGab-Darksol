@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fields name="profile">
+		<fieldset name="profile">
+		<field name="newsletter" type="checkbox" label="Newsletter" description="Newsletter" value="1" />
+		<field
+			name="interest"
+			type="checkboxes"
+			label="Interest"
+		
+			class="inputbox">
+		</field>
+	</fieldset>
+	</fields>
+</form>
